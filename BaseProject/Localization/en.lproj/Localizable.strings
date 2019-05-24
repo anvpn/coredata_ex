@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  BaseProject
+
+  Created by VPN on 16/06/18.
+  Copyright © 2018 VPN. All rights reserved.
+*/
+
+//Button Names
+
+"btn_login" = "Login";
+"btn_signup" = "Signup";
+"btn_forgotpassword" = "Forgot Password";
+"btn_changepassword" = "Change Password";
+"btn_done" = "Done";
+"btn_next" = "Next";
+"btn_submit" = "Submit";
+"btn_previous" = "Previous";
+"btn_back" = "Back";
+"btn_facebook" = "Facebook";
+"btn_gmail" = "Gmail";
+"Dont_have_an_account" = "Don't have an account ?";
+
+
+
+//textfeild_messages
+
+"txt_username" = "Please enter username";
+"txt_email" = "Please enter email address";
+"txt_password" = "Please enter password";
+"txt_cpassword" = "Please enter Conform Password";
+"txt_phone" = "Please enter Mobile Number";
+"txt_dob" = "Please select birthdate";
+"txt_geneder" = "Please select Gender";
+
+
+//Error Message
+"txt_name_err" = "Please enter minimum 4 characters";
+"txt_email_err" = "Please enter proper email address";
+"txt_phone_err" = "Please enter valid mobile number";
+"txt_password_err" = "Please enter minimum 6 digit of password";
+"txt_cpass_err" = "Confirm password does not match";

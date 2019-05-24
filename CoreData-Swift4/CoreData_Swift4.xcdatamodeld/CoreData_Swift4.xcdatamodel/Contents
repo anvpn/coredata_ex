@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17E199" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Client" representedClassName="Client" syncable="YES" codeGenerationType="class">
+        <attribute name="appointment_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coupon_data" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="customer_status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="payment_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="product_data" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="service_data" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="staff_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tbl_customer_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="total_amount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="total_product_price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="total_service_price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="total_visit" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Client" positionX="-54" positionY="126" width="128" height="43"/>
+    </elements>
+</model>
